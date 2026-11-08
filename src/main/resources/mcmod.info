@@ -1,1 +1,11 @@
-
+[
+  {
+    "modid": "orespawn2",
+    "name": "OreSpawn 2",
+    "description": "Monstros, bosses, armas, armaduras e dimensões!",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "authorList": ["OreSpawn 2"],
+    "dependencies": []
+  }
+]
