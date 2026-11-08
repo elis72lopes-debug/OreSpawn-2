@@ -1,1 +1,6 @@
-
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "orespawn2:items/titanium_ingot"
+  }
+}
